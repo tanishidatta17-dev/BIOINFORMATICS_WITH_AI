@@ -1,2 +1,8 @@
 # BIOINFORMATICS_WITH_AI
 AI - driver bioinformatics portfolio - NCBI, BLAST, ChEMBL, RDKit; Molecular Docking for Drug discovery.
+### 1. AI - Driven Drug Discovery Pipeline for Acetylcholinesterase (AChE)
+This project demonstrates a complete AI-Driven drug discovery workflow targetting Human Acetylcholinesterase (AChE)
+  - Fetched bioactivity data from ChEMBL 
+  - Generated Morgan fingerprinting using RDKit
+  - Performed molecular docing with AutoDock Vina
+  - Visualized interactions with py3Dmol
